@@ -1,0 +1,12 @@
+<suite name="Suite1" verbose="1">
+    <test name="Regression1">
+        <classes>
+            <class name="tests.login_test">
+                <method>
+                    <include name="valid_login"/>
+                </method>
+            </class>
+            <class name="tests.secureArea_test"/>
+        </classes>
+    </test>
+</suite>
