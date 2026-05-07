@@ -14,7 +14,7 @@ public class BeforAndAfter
     public static void openbrowser(){
         driver=new ChromeDriver();
         driver.manage().window().maximize();
-        driver.navigate().to("https://the-internet.herokuapp.com/login");
+        driver.navigate().to("https://awesomeqa.com/ui/index.php?route=common/home");
     }
     @AfterMethod
     public static void closebrowser(){
