@@ -17,7 +17,7 @@ public class RegistrationTests extends BeforAndAfter {
         driver.findElement(By.xpath("/html/body/nav/div/div[2]/ul/li[2]/ul/li[1]/a")).click();
         driver.findElement(By.id("input-firstname")).sendKeys("team");
         driver.findElement(By.id("input-lastname")).sendKeys("1st");
-        driver.findElement(By.id("input-email")).sendKeys("ha45u@gmail.com");
+        driver.findElement(By.id("input-email")).sendKeys("ha45y@gmail.com");
         driver.findElement(By.id("input-telephone")).sendKeys("01210949358");
         driver.findElement(By.id("input-password")).sendKeys("teamworkwin");
         driver.findElement(By.id("input-confirm")).sendKeys("teamworkwin");
