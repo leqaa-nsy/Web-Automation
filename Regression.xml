@@ -1,0 +1,26 @@
+<suite name="Suite1" verbose="1">
+    <test name="Regression1">
+        <classes>
+            <class name="project_tests.RegistrationTests"/>
+            <class name="project_tests.Registration_Test2"/>
+            <class name="project_tests.LoginTeste"/>
+            <class name="project_tests.CategoryTest"/>
+            <class name="project_tests.SelectCategoryTest"/>
+            <class name="project_tests.HoverCategoryTest"/>
+            <class name="project_tests.SearchTest"/>
+            <class name="project_tests.Tests"/>
+            <class name="project_tests.List_test"/>
+            <class name="project_tests.GridListViewTest"/>
+            <class name="project_tests.Switch_Test"/>
+            <class name="project_tests.ChangingPassTest"/>
+            <class name="project_tests.EditInfoTest"/>
+            <class name="project_tests.AccountEditTest"/>
+            <class name="project_tests.ShoppingCartTest"/>
+            <class name="project_tests.OutOfStockProductTest"/>
+            <class name="project_tests.VerifyQuantityTest"/>
+            <class name="project_tests.VerifyPaymentTest"/>
+            <class name="project_tests.ContactUsTest"/>
+        </classes>
+    </test>
+</suite>
+
