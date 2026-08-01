@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="[YOUR_IMAGE_URL_OR_PATH](https://github.com/user-attachments/assets/0ad0f459-d424-4830-b0a1-4fab33ca7806)" width="100%" alt="Awesomeqa QA Framework Roadmap">
+<img width="100%" height="634" alt="Awesomeqa QA Framework Roadmap" src="https://github.com/user-attachments/assets/9392bffd-4ddd-44e6-bd4d-3a0157e1ece6" />
 </p>
 
 Team_Members: Leqaa Naeem, Aya AbdElAziz, Eslam Farag, Pola Hany, AbdElrahman Osama, Ahmed Ezz
